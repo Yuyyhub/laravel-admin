@@ -9,14 +9,19 @@ Route::get('/', function () {
 })->name('dashboard');
 
 // calender pages
-Route::get('/index', function () {
-    return view('pages.profile2.index1', ['title' => 'Profile/Guru']);
+Route::get('/profileguru', function () {
+    return view('pages.profile2.index1', ['title' => 'Profile Guru']);
 })->name('profileguru');
+
 
 Route::get('/profilesekolah', function () {
     return view('pages.profile1.index', ['title' => 'Profile Sekolah']);
 })->name('profilesekolah');
 
+Route::get('/gallery', function () {
+    return view('pages.profile3.index2', ['title' => 'Gallery']);
+})->name('gallery');
+ 
 // profile pages
 Route::get('/profile', function () {
     return view('pages.profile', ['title' => 'Profile']);

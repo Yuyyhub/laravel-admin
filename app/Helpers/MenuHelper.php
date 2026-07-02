@@ -12,7 +12,8 @@ class MenuHelper
                 'icon' => 'user-profile',
                 'subItems' => [
                     ['name' => 'Profile Sekolah', 'path' => '/profilesekolah', 'pro' => false],
-                    ['name' => 'Profile Guru', 'path' => '/profileguru', 'pro' => false]
+                    ['name' => 'Profile Guru', 'path' => '/profileguru', 'pro' => false],
+                    ['name' => 'Gallery', 'path' => '/gallery', 'pro' => false]
                 ],
             ],
             [   

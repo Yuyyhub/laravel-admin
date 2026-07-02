@@ -11,7 +11,7 @@
                 <div class="grid grid-cols-1 gap-4 lg:grid-cols-2 lg:gap-7 2xl:gap-x-32">
                     <div>
                         <p class="mb-2 text-xs leading-normal text-gray-500 dark:text-gray-400">First Name</p>
-                        <p class="text-sm font-medium text-gray-800 dark:text-white/90">Wahyu</p>
+                        <p class="text-sm font-medium text-gray-800 dark:text-white/90">petir</p>
                     </div>
 
                     <div>
@@ -30,7 +30,7 @@
 
                     <div>
                         <p class="mb-2 text-xs leading-normal text-gray-500 dark:text-gray-400">Phone</p>
-                        <p class="text-sm font-medium text-gray-800 dark:text-white/90">+62 878-7800-4088</p>
+                        <p class="text-sm font-medium text-gray-800 dark:text-white/90">+62 002-1039-4302</p>
                     </div>
 
                     <div>
