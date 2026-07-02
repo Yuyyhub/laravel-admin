@@ -13,7 +13,7 @@ Route::get('/index', function () {
     return view('pages.profile2.index1', ['title' => 'Profile/Guru']);
 })->name('profileguru');
 
-Route::get('/asdfgkl', function () {
+Route::get('/profilesekolah', function () {
     return view('pages.profile1.index', ['title' => 'Profile Sekolah']);
 })->name('profilesekolah');
 
