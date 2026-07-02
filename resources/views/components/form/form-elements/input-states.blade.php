@@ -6,7 +6,7 @@
         <!-- Elements -->
         <div>
             <label class="mb-1.5 block text-sm font-medium text-gray-700 dark:text-gray-400">
-                Email
+                Username
             </label>
             <div class="relative">
                 <input type="text" value="demoemail"
@@ -29,7 +29,7 @@
         <!-- Elements -->
         <div>
             <label class="mb-1.5 block text-sm font-medium text-gray-700 dark:text-gray-400">
-                Email
+                Username
             </label>
             <div class="relative">
                 <input type="text" value="demoemail@gmail.com"
@@ -52,9 +52,9 @@
         <!-- Elements -->
         <div>
             <label class="mb-1.5 block text-sm font-medium text-gray-300 dark:text-white/15">
-                Email
+                Username
             </label>
-            <input type="text" placeholder="info@gmail.com" disabled
+            <input type="text" placeholder="Username" disabled
                 class="shadow-theme-xs focus:border-brand-300 focus:shadow-focus-ring dark:focus:border-brand-300 h-11 w-full rounded-lg border border-gray-300 bg-transparent px-4 py-2.5 text-sm text-gray-800 placeholder:text-gray-400 focus:outline-hidden disabled:border-gray-100 disabled:placeholder:text-gray-300 dark:border-gray-700 dark:bg-gray-900 dark:text-white/90 dark:placeholder:text-gray-400 dark:disabled:border-gray-800 dark:disabled:placeholder:text-white/15" />
         </div>
     </div>
