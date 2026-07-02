@@ -24,8 +24,8 @@
 
       <div class="flex items-end justify-between mt-5">
         <div>
-          <span class="text-sm text-gray-500 dark:text-gray-400">Customers</span>
-          <h4 class="mt-2 font-bold text-gray-800 text-title-sm dark:text-white/90">3,782</h4>
+          <span class="text-sm text-gray-500 dark:text-gray-400">TJKT</span>
+          <h4 class="mt-2 font-bold text-gray-800 text-title-sm dark:text-white/90">850</h4>
         </div>
 
         <span
@@ -77,8 +77,8 @@
 
       <div class="flex items-end justify-between mt-5">
         <div>
-          <span class="text-sm text-gray-500 dark:text-gray-400">Orders</span>
-          <h4 class="mt-2 font-bold text-gray-800 text-title-sm dark:text-white/90">5,359</h4>
+          <span class="text-sm text-gray-500 dark:text-gray-400">MPLB</span>
+          <h4 class="mt-2 font-bold text-gray-800 text-title-sm dark:text-white/90">740</h4>
         </div>
 
         <span

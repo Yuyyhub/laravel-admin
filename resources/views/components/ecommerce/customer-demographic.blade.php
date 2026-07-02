@@ -29,7 +29,6 @@
                 Number of customer based on country
             </p>
         </div>
-
          <!-- Dropdown Menu -->
          <x-common.dropdown-menu />
          <!-- End Dropdown Menu -->
@@ -46,6 +45,7 @@
                     <div class="w-full max-w-8 items-center rounded-full">
                         <img src="{{ $country['flag'] }}" alt="{{ strtolower($country['name']) }}" />
                     </div>
+                    
                     <div>
                         <p class="text-theme-sm font-semibold text-gray-800 dark:text-white/90">
                             {{ $country['name'] }}
