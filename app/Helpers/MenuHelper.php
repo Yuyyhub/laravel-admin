@@ -8,12 +8,11 @@ class MenuHelper
     {
         return [
             [
-                'name' => 'Profil',
+                'name' => 'Profile',
                 'icon' => 'user-profile',
                 'subItems' => [
                     ['name' => 'Profile Sekolah', 'path' => '/profilesekolah', 'pro' => false],
-                    ['name' => 'Profile Guru', 'path' => '/profileguru', 'pro' => false],
-                    ['name' => 'Gallery', 'path' => '/gallery', 'pro' => false]
+                    ['name' => 'Profile Guru', 'path' => '/profileguru', 'pro' => false]
                 ],
             ],
             [   
@@ -25,7 +24,7 @@ class MenuHelper
                 'name' => 'Forms',
                 'icon' => 'forms',
                 'subItems' => [
-                    ['name' => 'Form Elements', 'path' => '/elements', 'pro' => false],
+                    ['name' => 'Form Elements', 'path' => '/form-elements', 'pro' => false],
                 ],
             ],
             [

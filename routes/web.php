@@ -18,9 +18,9 @@ Route::get('/profilesekolah', function () {
     return view('pages.profile1.index', ['title' => 'Profile Sekolah']);
 })->name('profilesekolah');
 
-Route::get('/gallery', function () {
-    return view('pages.profile3.index2', ['title' => 'Gallery']);
-})->name('gallery');
+// Route::get('/gallery', function () {
+//     return view('pages.profile3.index2', ['title' => 'Gallery']);
+// })->name('gallery');
  
 // profile pages
 Route::get('/profile', function () {
@@ -28,9 +28,9 @@ Route::get('/profile', function () {
 })->name('profile');
 
 // form pages
-Route::get('/form-elements', function () {
+Route::get('/forme-elements', function () {
     return view('pages.form.form-elements', ['title' => 'Form Elements']);
-})->name('elements');
+})->name('form-elements');
 
 // tables pages
 Route::get('/basic-tables', function () {
