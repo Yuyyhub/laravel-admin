@@ -75,6 +75,19 @@
         </svg>
       </div>
 
+      <!-- <div class="flex-1 overflow-auto">
+    <div class>
+        <div class="absolute inset-0 bg-[url('/noise.png')] opacity-[0.15] pointer-events-none mix-blend-overlay"></div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto w-full">
+            <a class="group block h-full animate-in slide-in-from-bottom-12 fade-in duration-1000 delay-100" href="/modules">
+                <div class="relative h-full flex flex-col p-8 bg-white/70 dark:bg-gray-900/70 backdrop-blur-2xl border border-gray-200/60 dark:border-gray-800/60 rounded-[2.5rem] hover:shadow-2xl hover:shadow-brand-500/20 transition-all duration-700 hover:-translate-y-2 overflow-hidden">
+                    <div class="relative h-full flex flex-col p-8 bg-white/70 dark:bg-gray-900/70 backdrop-blur-2xl border border-gray-200/60 dark:border-gray-800/60 rounded-[2.5rem] hover:shadow-2xl hover:shadow-brand-500/20 transition-all duration-700 hover:-translate-y-2 overflow-hidden">
+                        <div class="absolute inset-0 bg-gradient-to-br from-brand-600/5 to-indigo-600/5 opacity-0 group-hover:opacity-100 transition-opacity duration-700"></div>
+                        <div class="relative z-10 flex flex-col h-full">…</div>
+                    </div> -->
+
+
+
       <div class="flex items-end justify-between mt-5">
         <div>
           <span class="text-sm text-gray-500 dark:text-gray-400">MPLB</span>
